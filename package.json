@@ -1,0 +1,19 @@
+{
+  "name": "angular-basics",
+  "version": "1.0.0",
+  "description": "Build an angular application with Mark Thompson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngl4/angular-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngl4/angular-basics/issues"
+  },
+  "homepage": "https://github.com/ngl4/angular-basics#readme"
+}
